@@ -16,6 +16,10 @@ However your progress on official servers is not lost, so running vanilla client
 
 These two errors can commonly be fixed for the average user by following the guide [here](installing-northstar/troubleshooting.md#player-not-found-invalid-master-server-token). "Invalid Master Server Token" can also be caused by the Northstar master server being offline, however this is normally not the cause of the error.
 
+### Q: Can I still play vanilla after installing Northstar?
+
+Yes, of course. You can play vanilla simply by launching Titanfall 2 on the store you own it on (make sure to remove the `-northstar` launch option if you've decided to add it). You can also [uninstall Northstar](installing-northstar/troubleshooting.md#uninstall) if you'd prefer to do so at any point.
+
 ### Q: How do I open the console?
 
 A: Check [_Opening the console_](installing-northstar/using-northstar/commands.md#opening-the-console).
