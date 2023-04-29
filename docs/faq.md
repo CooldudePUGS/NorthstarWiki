@@ -89,3 +89,11 @@ A: We are unsure of what causes this, and are trying to figure out a solution fo
 ### Q: Why is my game running so bad? <a href="#faq-performance" id="faq-performance"></a>
 
 A: This usually lies behind your computer's specs not being high enough in order to run the game, but can also be affected by EA App's overlay. You can disable this by going to and following the [disable EA overlay section](installing-northstar/troubleshooting.md#ea-overlay).
+
+
+
+
+
+### Q: I get an error message saying "Origin is Offline" or "LSX Authentication Challenge Failed"? <a href="#faq-faq-origin-offline" id="faq-origin-offline"></a>
+
+A: Please follow the steps listed in [this section](installing-northstar/troubleshooting.md#lsx) of the wiki, and make sure you're signed into the correct account. (You should see Titanfall 2 in your library on EA if you're on the right account, even if you own it on Steam)
