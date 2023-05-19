@@ -38,14 +38,13 @@ Note that if you modified some files like `ns_startup_args.txt`, these will also
 
 ## Manual Mod Installation
 
-Many users of Northstar find themselves wanting to use additional mods found on the [Northstar Thunderstore page](). These mods can range from [adding a speedometer]() to [making your titan look like Shrek](). Note that some mods need the server to use them as well.
+Many users of Northstar find themselves wanting to use additional mods found on the [Northstar Thunderstore page](https://northstar.thunderstore.io/). These mods can range from [adding a speedometer](https://northstar.thunderstore.io/package/S2Mods/SpeedometerV2/) to [making your titan look like Shrek](https://northstar.thunderstore.io/package/UNO/Shrek/). Note that some mods need the server to use them as well.
 
 To manually install these mods, you want to download them from their respective page on Thunderstore, then unzip the downloaded zip file. In here you'll usually see a folder called `mods`, `icon.png`, `README.md`, and `manifest.json`.
 Inside the `mods` folder, you should find a folder close to the name of the mod you downloaded.
 If you _don't_ see a `mods` folder, you'll most likely see a folder close to what the name of the mod is.
-You want to move this named folder inside `Titanfall2\R2Northstar\mods`. After doing this, you want to make sure the mod doesn't need any dependencies.
+You want to move this named folder to `Titanfall2\R2Northstar\mods`. After doing this, you want to make sure the mod doesn't need any dependencies.
 
-If the mod does need dependencies, make sure to download them as well. They are _required_ to keep your game functional after downloading a new mod, as not having them will temporarily break your game. 
+If the mod does need dependencies, make sure to download them as well. They are _required_ to keep your game functional after downloading a new mod, as not having them will temporarily break your game. Note: if a mod has a dependency listed as needing a specific version of Northstar, you can ignore that
 
-If inside the folder you instead see folders named with numbers, the mod is a DDS formatted skin and requires additional steps to install. You can either convert the skin to a "normal" mod by using Spoon's [Advocate tool](), or you can install it to your games files directly using the [skin tool]().
-
+If inside the folder you instead see folders named with numbers, the mod is a DDS formatted skin and requires additional steps to install. You can either convert the skin to a "normal" mod by using Spoon's [Advocate tool](https://github.com/ASpoonPlaysGames/Advocate), or you can install it to your games files directly using the [Titanfall 2 skin tool](https://github.com/zxcPandora/Titanfall2-SkinTool).
