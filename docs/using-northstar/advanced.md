@@ -23,11 +23,9 @@ You can set up profiles in an even more advanced way by setting up a way to use 
 
 ### Vanilla Profile
 
-A simple "vanilla" profile can be created using a `.bat` file, without needing to fully make an additional mods folder. You can do this simply by creating a `.txt` file inside of your Titanfall2 directory (you can name it whatever you want), and putting in `NorthstarLauncher.exe -norestrictservercommands -profile=R2Vanilla`.
-After doing this, you'll want to rename it to `yourFileName.bat`.
-This tells the NorthstarLauncher to not restrict server commands, a feature which is needed to allow the server to tell the client which server to join (but is disabled on Northstar for security reasons), and tells it to use the `R2Vanilla` profile, which, as it doesn't normally exist, will launch Northstar with no core mods enabled, allowing you to easily play on Vanilla using most of Northstar's security fixes.
+A community created option for vanilla profiles with working Northstar mod loading called `VanillaPlus` has been created. Please follow the installing instructions found on the [mod page](https://northstar.thunderstore.io/package/NanohmProtogen/VanillaPlus/) to install and use it.
 
-Double clicking the `.bat` or right clicking on it and hitting `open` will launch the vanilla profile.
+If you want to just use Northstar for any reason without any mods, simply launch Titanfall 2 from Steam or the EA App with the `-vanilla` [launch option](../installing-northstar/troubleshooting.md#launch-opts).
 
 ## Setting levels using console commands <a href="#set-level" id="set-level"></a>
 
