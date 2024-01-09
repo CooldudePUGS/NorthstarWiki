@@ -67,7 +67,7 @@ Click on _"Code"_ and then on _"Download ZIP"_
 
 ![](../.gitbook/assets/download-mods-pr2.png)
 
-From there copy over all the `Northstar.XXXXX` folders into your mods folder in your TItnafall2 install the same way you would manually install mods.
+From there copy over all the `Northstar.XXXXX` folders into your mods folder in your Titanfall2 install the same way you would manually install mods.
 
 ## Tips and toolkits
 
@@ -105,7 +105,7 @@ By default duplicate accounts are blocked by server. Use `-allowdupeaccounts` wh
 Use `map <map name>` to quickly switch map.\
 Example: `map mp_glitch`
 
-List of maps can be found [here](../hosting-a-server-with-northstar/dedicated-server/#maps)
+List of maps can be found [here](../hosting-a-server-with-northstar/server-settings/file-names.md#maps)
 
 **Speed-up/slow-down game**
 
